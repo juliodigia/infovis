@@ -8,4 +8,4 @@
 
 [Visualización en Raw Graph](https://juliodigia.github.io/infovis/S1/rawgraph.html)
 
-[Visualización en Observable](https://juanisolerno.github.io/infovis/s1/mom2022w44_observable_scatter.html)
+[Visualización en Observable](https://juliodigia.github.io/infovis/S1/observable.html)
