@@ -6,6 +6,6 @@
 
 [Visualización en Tableau](https://juliodigia.github.io/infovis/blob/main/S1/Tableau.html)
 
-[Visualización en Raw Graph](https://juanisolerno.github.io/infovis/s1/mom2022w44_rawgraph_circlepacking.html)
+[Visualización en Raw Graph](https://juliodigia.github.io/infovis/blob/main/S1/rawgraph.html)
 
 [Visualización en Observable](https://juanisolerno.github.io/infovis/s1/mom2022w44_observable_scatter.html)
