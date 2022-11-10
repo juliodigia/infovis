@@ -4,7 +4,7 @@
 
 [holamundo](https://juliodigia.github.io/infovis/S1/HolaMundo.html)
 
-[Visualización en Tableau](https://juanisolerno.github.io/infovis/s1/mom2022w44_tableau.html)
+[Visualización en Tableau](https://juliodigia.github.io/infovis/blob/main/S1/Tableau.html)
 
 [Visualización en Raw Graph](https://juanisolerno.github.io/infovis/s1/mom2022w44_rawgraph_circlepacking.html)
 
