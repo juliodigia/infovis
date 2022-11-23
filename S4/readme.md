@@ -4,8 +4,10 @@ Las mismas tratan de el tiempo invertido entre trabajo y estudio a lo largo del 
 
 [La razon de por que odio los martes](https://juliodigia.github.io/infovis/S4/Martes.html)
 
-[Visualización en Tableau](https://juliodigia.github.io/infovis/S1/Tableau.html)
+[Comparacion horas curso VS facultad por mes](https://juliodigia.github.io/infovis/S4/cursovsfaculMes.html)
 
-[Visualización en Raw Graph](https://juliodigia.github.io/infovis/S1/rawgraph.html)
+[Comparacion horas trabajo VS estudio semanal](https://juliodigia.github.io/infovis/S4/horasTrabajoEstudio.html)
 
-[Visualización en Observable](https://juliodigia.github.io/infovis/S1/observable.html)
+
+
+
